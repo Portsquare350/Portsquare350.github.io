@@ -128,7 +128,7 @@ color: #ffffff;
 
 #arrow-down {
   position: absolute;
-  bottom: 24px;
+  bottom: 34px;
   left: -50px;
   right: 0;
   margin: 0 auto;
@@ -415,14 +415,14 @@ color: #4d4d4d;
 /************************************************CONTACT SECTION*********************************************/
 
 #contact-info-bg-1 {
-  background: linear-gradient(to right, #36313782, #36313782), url(../img/logor\ \(3\).jpg);
+  background: linear-gradient(to right, black, black), url(../img/logor\ \(3\).jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
 #contact-info-bg-2 {
-  background-color: #312423a8;
+  background-color: black;
 }
 
 
