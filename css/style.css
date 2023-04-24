@@ -95,7 +95,7 @@ header a:visited {
 /************************************************HERO SECTION*********************************************/
 
 #hero-section {
-  background-image: url(../img/);
+  background-image: url(../img/tapet-clasic-romantic-z2915-2188.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -115,7 +115,7 @@ color: #ffffff;
   right: 0;
   top: 0;
   bottom: 0;
-  background: #000000;
+  background: #000000c2;
   height: 100vh;
 }
 
@@ -210,18 +210,18 @@ transition: 0.3s;
 #card3 {
 position:relative;
 top:0%;
-left:0%;
+left:30%;
 transform:translate(-50%, -50%);
 display:flex;
 margin:0;
 padding:0;
 text-decoration: none;
-width:360px;
+width:160px;
 border-radius: 50%;
-height:360px;
+height:160px;
 background: #fff;
 text-align:left;
-
+object-fit: contain;
 transform: rotate(0deg) skew(0deg) translate(0,0);
 transition:.5s;
 box-shadow: -20px 20px 10px rgba(0,0,0,.5);
